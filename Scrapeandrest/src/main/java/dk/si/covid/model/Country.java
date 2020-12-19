@@ -1,11 +1,5 @@
 package dk.si.covid.model;
 
-import org.bson.codecs.pojo.annotations.BsonProperty;
-import org.bson.types.ObjectId;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Document;
-
-
 public class Country {
 
     private String name;

@@ -12,3 +12,5 @@
 2020-12-19 17:12:29 INFO  CoronaStatusService:18 - / GET findByCountry called.
 2020-12-19 18:16:46 INFO  CoronaStatusService:18 - / GET findByCountry called.
 2020-12-19 19:46:40 INFO  CoronaStatusService:18 - / GET findByCountry called.
+2020-12-19 20:44:42 INFO  CoronaStatusController:20 - ### GET getCountryStatus called
+2020-12-19 20:44:42 INFO  CoronaStatusService:18 - / GET findByCountry called.
