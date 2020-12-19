@@ -1,0 +1,46 @@
+2020-12-15 15:38:27 INFO  HotelController:23 - /city GET findByCity called.
+2020-12-15 15:38:27 INFO  HotelService:35 - / GET findByCity called.
+2020-12-15 15:38:27 INFO  HotelService:37 - Successfully entered try block with MongoDB connection established.
+2020-12-15 15:38:28 INFO  MongoDB:57 - close called.
+2020-12-15 15:38:28 INFO  MongoDB:59 - Connection closed.
+2020-12-15 15:38:28 INFO  HotelController:26 - hotels instance was NOT null.
+2020-12-15 15:42:33 INFO  HotelController:23 - /city GET findByCity called.
+2020-12-15 15:42:33 INFO  HotelService:35 - / GET findByCity called.
+2020-12-15 15:42:33 INFO  HotelService:37 - Successfully entered try block with MongoDB connection established.
+2020-12-15 15:42:33 INFO  MongoDB:57 - close called.
+2020-12-15 15:42:33 INFO  MongoDB:59 - Connection closed.
+2020-12-15 15:42:33 INFO  HotelController:26 - hotels instance was NOT null.
+2020-12-15 15:42:45 INFO  HotelController:23 - /city GET findByCity called.
+2020-12-15 15:42:45 INFO  HotelService:35 - / GET findByCity called.
+2020-12-15 15:42:45 INFO  HotelService:37 - Successfully entered try block with MongoDB connection established.
+2020-12-15 15:42:46 INFO  MongoDB:57 - close called.
+2020-12-15 15:42:46 INFO  MongoDB:59 - Connection closed.
+2020-12-15 15:42:46 INFO  HotelController:26 - hotels instance was NOT null.
+2020-12-15 15:43:47 INFO  HotelController:23 - /city GET findByCity called.
+2020-12-15 15:43:47 INFO  HotelService:35 - / GET findByCity called.
+2020-12-15 15:43:47 INFO  HotelService:37 - Successfully entered try block with MongoDB connection established.
+2020-12-15 15:43:47 INFO  MongoDB:57 - close called.
+2020-12-15 15:43:47 INFO  MongoDB:59 - Connection closed.
+2020-12-15 15:43:47 INFO  HotelController:26 - hotels instance was NOT null.
+2020-12-15 15:45:16 INFO  HotelController:23 - /city GET findByCity called.
+2020-12-15 15:45:16 INFO  HotelService:35 - / GET findByCity called.
+2020-12-15 15:45:16 INFO  HotelService:37 - Successfully entered try block with MongoDB connection established.
+2020-12-15 15:45:16 INFO  MongoDB:57 - close called.
+2020-12-15 15:45:16 INFO  MongoDB:59 - Connection closed.
+2020-12-15 15:45:16 INFO  HotelController:26 - hotels instance was NOT null.
+2020-12-15 15:46:12 INFO  HotelController:23 - /city GET findByCity called.
+2020-12-15 15:46:12 INFO  HotelService:35 - / GET findByCity called.
+2020-12-15 15:46:12 INFO  HotelService:37 - Successfully entered try block with MongoDB connection established.
+2020-12-15 15:46:13 INFO  MongoDB:57 - close called.
+2020-12-15 15:46:13 INFO  MongoDB:59 - Connection closed.
+2020-12-15 15:46:13 INFO  HotelController:26 - hotels instance was NOT null.
+2020-12-19 01:46:02 INFO  CoronaStatusService:24 - / GET findByCountry called.
+2020-12-19 01:46:20 INFO  CoronaStatusService:24 - / GET findByCountry called.
+2020-12-19 01:46:47 INFO  CoronaStatusService:24 - / GET findByCountry called.
+2020-12-19 01:47:21 INFO  CoronaStatusService:24 - / GET findByCountry called.
+2020-12-19 01:48:08 INFO  CoronaStatusService:24 - / GET findByCountry called.
+2020-12-19 01:50:34 INFO  CoronaStatusService:23 - / GET findByCountry called.
+2020-12-19 01:51:05 INFO  CoronaStatusService:23 - / GET findByCountry called.
+2020-12-19 02:07:29 INFO  CoronaStatusService:18 - / GET findByCountry called.
+2020-12-19 02:09:14 INFO  CoronaStatusService:18 - / GET findByCountry called.
+2020-12-19 02:10:02 INFO  CoronaStatusService:18 - / GET findByCountry called.
