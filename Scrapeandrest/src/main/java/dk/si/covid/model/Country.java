@@ -2,35 +2,35 @@ package dk.si.covid.model;
 
 public class Country {
 
-    private String name;
-    private String Color;
+    private String country;
+    private String color;
 
-    public Country(String name, String color) {
-        this.name = name;
-        Color = color;
+    public Country(String country, String color) {
+        this.country = country;
+        this.color = color;
     }
 
-    public String getName() {
-        return name;
+    public String getCountry() {
+        return country;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setCountry(String country) {
+        this.country = country;
     }
 
     public String getColor() {
-        return Color;
+        return color;
     }
 
     public void setColor(String color) {
-        Color = color;
+        this.color = color;
     }
 
     @Override
     public String toString() {
         return "Country{" +
-                "name='" + name + '\'' +
-                ", Color='" + Color + '\'' +
+                "country='" + country + '\'' +
+                ", color='" + color + '\'' +
                 '}';
     }
 }

@@ -26,7 +26,7 @@ public class CoronaStatusService {
             while (reader.hasNext())
             {
                 Country c = gson.fromJson(reader, Country.class);
-                if (c.getName().equalsIgnoreCase(country))
+                if (c.getCountry().equalsIgnoreCase(country))
                     color = c.getColor();
              }
             reader.endArray();
